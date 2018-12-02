@@ -40,7 +40,7 @@ pip install pyttsx3
 ## About:
 - **Speech-Recognition** : Speech recognition is the ability of a machine or program to identify words and phrases in spoken language and convert them to a machine-readable format. Rudimentary speech recognition software has a limited vocabulary of words and phrases, and it may only identify these if they are spoken very clearly.
 
-Get more information about SppechRecognition at it's [Official Website](https://pypi.org/project/SpeechRecognition/).
+Get more information about SpeechRecognition at it's [Official Website](https://pypi.org/project/SpeechRecognition/).
 
 - **Pyttsx** :
 Pyttsx for python3 [ Offline text to speech for python3]
@@ -50,7 +50,7 @@ Pyttsx is a good text to speech conversion library in python but it was written 
 Get more information about Pyttsx at it's [Official Website](https://pypi.org/project/pyttsx3/).
 
 - **Google-Search** :
-Usage:
+Usage
 ```
 from googlesearch.googlesearch import GoogleSearch
 response = GoogleSearch().search("something")
@@ -66,6 +66,7 @@ Get more information about google-search at it's [Official Website](https://pypi
 OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products.
 
 Get more information about OpenCV at it's [Official Website](https://opencv.org/).
+
 ## Project:
 
 #### Services:
@@ -73,7 +74,7 @@ Virtual assistants can provide a wide variety of services, and particularly thos
 
 - Provide information such as weather, facts from e.g. Wikipedia or IMDB, set an alarm, make to-do lists and shopping lists
 - Play music from streaming services such as Youtube.
-- Play videos, TV shows or movies on televisions, streaming from e.g. Youtube
+- Play videos, TV shows or movies on televisions, streaming from e.g. Youtube.
 
 ## Source of Information:
 
@@ -82,7 +83,7 @@ Virtual assistants can provide a wide variety of services, and particularly thos
 
 ## Contributing:
 
-Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/t-varun/Face-Recognition/issues).
+Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/t-varun/VoiceAssistant/issues).
 
 ## Contact-info:
 
@@ -101,4 +102,4 @@ The content developed by VARUN is distributed under the following license:
 
 I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me.
 
-More about Licence at [link](https://github.com/t-varun/Face-Recognition/blob/master/LICENSE).
+More about Licence at [link](https://github.com/t-varun/VoiceAssistant/blob/master/LICENSE).
