@@ -72,7 +72,7 @@ Get more information about OpenCV at it's [Official Website](https://opencv.org/
 #### Services:
 Virtual assistants can provide a wide variety of services, and particularly those from Amazon Alexa and Google Assistant grow by the day. These include:
 
-- Provide information such as weather, facts from e.g. Wikipedia or IMDB, set an alarm, make to-do lists and shopping lists
+- Provide information such as weather, facts from e.g. Google.
 - Play music from streaming services such as Youtube.
 - Play videos, TV shows or movies on televisions, streaming from e.g. Youtube.
 
