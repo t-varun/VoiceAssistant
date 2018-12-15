@@ -97,7 +97,7 @@ while(True):
             print("I am sleeping now...bye.")
             engine.say("I am sleeping now...bye.")
             engine.runAndWait()
-            quit()
+            exit()
         elif((X[0] == "play")|(Aud == "open YouTube")):
             if (Aud == "open YouTube"):
                 print("Opening YouTube...")
